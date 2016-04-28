@@ -3,6 +3,7 @@ namespace Admin\Controller;
 use Think\Controller;
 class IndexController extends Controller {
     public function index(){
-       echo 'Admin Application Management';
+       // echo 'Admin Application Management';
+       $this ->display();
     }
 }

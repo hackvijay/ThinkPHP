@@ -1,1 +1,1 @@
-<?php if (!defined('THINK_PATH')) exit();?>Hello,ThinkPHP！
+<?php if (!defined('THINK_PATH')) exit();?>

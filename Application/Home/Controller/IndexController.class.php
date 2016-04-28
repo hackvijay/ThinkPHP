@@ -6,6 +6,7 @@ class IndexController extends Controller {
         // echo 'My Home Application';
         // $user = M("admin_user") ->order('user_id desc') ->select();
         // print_r($user);
+        
         $this ->display();
     }
 }
